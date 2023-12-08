@@ -6,12 +6,12 @@ This repository contains the code for a responsive Watches website designed usin
 # Demo
 Before you dive into the project, check out a live demo [here](https://abhimanyu668.github.io/Watches-website/).
 
-#features
+# features
 - Responsive design for compatibility with all mobile devices.
 - Beautiful and pleasant user interface.
 - Animated images to enhance visual appeal.
 
-#Technologies Used
+# Technologies Used
 
 - HTML
 - CSS
